@@ -21,3 +21,5 @@ Here is an example of the Confusion Matrix on the [validation dataset](Saved_Plo
 ## Optimization:
 
 Several key optimization ideas that were used included reducing the size of the training dataset to include 1000 of each brain tumor category, resizing the images to a 32x32 size and normalizing the pixel values to be between 0 and 1. Lastly, to address possible overfitting, I added a few dropout layers in the neural network model using a rate of 0.25 to further regularize the model. 
+
+Here is an example of the resulting plot of the training dataset and validation dataset accuracies after running the [updated model with the dropout layers](Saved_Plots/Training&ValidationAccuracy_DropoutModel.pdf).
