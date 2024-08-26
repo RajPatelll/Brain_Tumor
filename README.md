@@ -11,6 +11,9 @@ I then used tensorflow and sklearn to create a neural network model with several
 The prediction would be the category associated to the highest probability. 
 
 Lastly, I plotted the training and validation accuracy & loss to visualize how the model is working on both the training dataset and the validation dataset to see if there is any potential signs of overfitting.
+
+Here is an example of the plot of the accuracies after running the [original model](Training&ValidationAccuracy.pdf).
+
 I also plotted the confusion matrix to visualize how many of each category was correctly predicted and how many were not. 
 
 ## Optimization:
