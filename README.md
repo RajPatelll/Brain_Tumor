@@ -12,3 +12,7 @@ The prediction would be the category associated to the highest probability.
 
 Lastly, I plotted the training and validation accuracy & loss to visualize how the model is working on both the training dataset and the validation dataset to see if there is any potential signs of overfitting.
 I also plotted the confusion matrix to visualize how many of each category was correctly predicted and how many were not. 
+
+## Optimization:
+
+Several key optimization ideas that were used included reducing the size of the training dataset to include 1000 of each brain tumor category, resizing the images to a 32x32 size and normalizing the pixel values to be between 0 and 1. Lastly, to address possible overfitting, I added a few dropout layers in the neural network model using a rate of 0.25 to further regularize the model. 
