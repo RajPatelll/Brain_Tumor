@@ -16,7 +16,7 @@ Here is an example of the plot of the accuracies after running the [original mod
 
 I also plotted the confusion matrix to visualize how many of each category was correctly predicted and how many were not for the validation dataset and the additional dataset
 
-Here is an example of the Confusion Matrix on the [validation dataset](Saved_Plots/Confusion_Matrix_ValidationData.pdf.pdf) & [testing dataset](Saved_Plots/Confusion_Matrix_TestingData.pdf.pdf).
+Here is an example of the Confusion Matrix on the [validation dataset](Saved_Plots/Confusion_Matrix_ValidationData.pdf) & [testing dataset](Saved_Plots/Confusion_Matrix_TestingData.pdf).
 
 ## Optimization:
 
