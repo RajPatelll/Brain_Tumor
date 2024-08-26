@@ -1,5 +1,5 @@
 # Brain Tumor Neural Network Project
-This project utilizes Brain Tumor MRI image dataset found on Kaggle to build a neural network model. The goal of the model is to accurately classify the images into four different 
+This project utilizes Brain Tumor MRI image dataset found on [Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) to build a neural network model. The goal of the model is to accurately classify the images into four different 
 cateogires: Glioma, Meningioma, No Tumor, and Pituitary. According to the World Health Organization, a proper brain tumor diagnosis involves the classification of the tumor which is the primary
 objective of this project. 
 ## How It's Made:
